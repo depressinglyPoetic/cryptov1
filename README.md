@@ -1,2 +1,2 @@
 # cryptov1
-Still an Ametuer, don't judge!
+Still an Amatuer, don't judge!
